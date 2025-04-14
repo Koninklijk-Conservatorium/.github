@@ -4,7 +4,7 @@ Welcome to the official account of the Royal Conservatory The Hague.
 
 Established in 1826, the Royal Conservatoire The Hague nurtures talented musicians and dancers from around the world, helping them become versatile artists engaged globally and locally.
 
-More information: [[koncon.nl]].
+More information: [koncon.nl](https://www.koncon.nl).
 <!--
 
 **Here are some ideas to get you started:**
