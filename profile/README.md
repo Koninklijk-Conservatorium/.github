@@ -1,4 +1,4 @@
-## Royal Conservatory The Hague
+#![thumbnail_image002](https://github.com/user-attachments/assets/e3e823c2-076e-4545-8b46-8c1af24e654d)
 
 Welcome to the official account of the Royal Conservatory The Hague.
 
